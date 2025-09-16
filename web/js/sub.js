@@ -1,11 +1,11 @@
 const CONFIG = {
   'proxyListUrl': "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList.txt",
   'apiCheckUrl': "https://api.jb8fd7grgd.workers.dev/",
-  'mainDomains': ["siren.afrcloud.site"],
-  'defaultUuid': 'bbbbbbbb-cccc-4ddd-eeee-ffffffffffff',
+  'mainDomains': ["siren1.skibidicx.web.id"],
+  'defaultUuid': 'fccdaaae-af39-41a7-9fde-fd32a48278cf',
   'maxProxies': 0x32,
   'defaultProxyCount': 0x5,
-  'pathTemplate': "/afrcloud/{ip}-{port}"
+  'pathTemplate': "/Free/{ip}-{port}"
 };
 let proxyList = [];
 let filteredProxyList = [];
